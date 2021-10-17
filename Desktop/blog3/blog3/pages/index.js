@@ -5,7 +5,7 @@ function homePage() {
         <h1>Welcome!</h1>
       </div>
       <div>
-        <p>Test!</p>
+        <p>Test!!</p>
       </div>
     </div>
   );
