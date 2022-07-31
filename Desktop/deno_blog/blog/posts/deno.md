@@ -1,6 +1,6 @@
 ---
 title: Deno Primer 
-publish_date: 01-01-2022
+publish_date: 2022-01-01
 ---
 
 WIP - Expect beginning of Aug. 

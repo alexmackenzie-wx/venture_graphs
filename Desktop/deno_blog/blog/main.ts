@@ -2,8 +2,7 @@ import blog, { ga, redirects } from "https://deno.land/x/blog@0.4.0/blog.tsx";
 
 blog({
   title: "Alex Mackenzie",
-  description: `
-  Hello! - I'm Alex Mackenzie, partner @ Tapestry. Below you'll find breakdowns of technical topics, pontifications & the occasional on-job aggregations.`,
+  description: "Hello! - I'm Alex Mackenzie, partner @ Tapestry. Below you'll find breakdowns of technical topics, pontifications & the occasional on-job aggregations.",
   avatar: "alex.png",
   avatarClass: "rounded-full",
   links: [
