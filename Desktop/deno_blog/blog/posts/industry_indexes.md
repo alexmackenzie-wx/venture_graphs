@@ -1,5 +1,5 @@
 ---
-title: Industry Indexes 
+title: Industry Indexes [SOON]
 publish_date: 2022-01-01
 ---
 

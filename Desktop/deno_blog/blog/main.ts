@@ -12,6 +12,7 @@ blog({
   ],
   author: "Alex Mackenzie",
   background: "#f9f9f9",
+  favicon: "gengar.ico",
 
   // middlewares: [
 
