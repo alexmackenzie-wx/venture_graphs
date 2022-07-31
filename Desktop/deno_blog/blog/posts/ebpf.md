@@ -1,6 +1,6 @@
 ---
 title: eBPF Primer
-publish_date: 2022-07-10
+publish_date: 2022-16-06
 ---
 
 *“Some say software is eating the world, I would say that: BPF is eating software”*
