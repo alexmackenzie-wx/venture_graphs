@@ -10,42 +10,26 @@ An evolving doc of the advice I've received or inherited about the business of V
 Below you'll find my ~unique aggregate of learnings about the business of venture - beyond the "usual" / "technical".    
 
 - "Suck the oxygen out of the air" - [Pat Grady](https://twitter.com/gradypb/status/1500853918036729856?s=20&t=nBg6rHzCk0fTZD5avEMTEg) on winning founder mind share. (about Sarah Guo!)
-\
+</br>
 - "Do good deals" - Anon on becoming a great investor. "Obvious" - but very easy to climb the wrong hill.
-\
+</br>
 - "Look at the steepness of the slope" - [Geoff Lewis](https://www.youtube.com/watch?v=gd8ljRyBmTQ) on assessing the MOIC of people vs. companies. 
-\
+</br>
 - "Not all revenue is created equal" - [Bill Gurley](https://abovethecrowd.com/2011/05/24/all-revenue-is-not-created-equal-the-keys-to-the-10x-revenue-club/) on meta financial analysis.
-\
 - "Work with life's work entrepreneurs" - [Geoff Lewis](https://twitter.com/GeoffLewisOrg/status/1535389983661559809) on investing in upside & resiliency. 
-\
 - "10*9" - [Roelof Botha](https://www.protocol.com/sequoia-roelof-botha) on investing exceptionally vs. incrementally. 
-\
 - "Accidents of history" - [Sam Bankman-Fried](https://conversationswithtyler.com/episodes/sam-bankman-fried/) on understanding "why then" vs. "why now".
-\
-- "World's most important companies" - [Bryan Singerman](https://www.joincolossus.com/episodes/34530101/singerman-investing-in-the-best-founders). "Obvious" - but useful way to keep incremental 
-bias/adverse selection in check.
-\
+- "World's most important companies" - [Bryan Singerman](https://www.joincolossus.com/episodes/34530101/singerman-investing-in-the-best-founders). "Obvious" - but useful way to keep incremental bias/adverse selection in check.
 - "Study Burning Man" - [Jess Lee](https://podcasts.apple.com/ca/podcast/jess-lee-designing-investment-products/id1154105909?i=1000568849876) on building / appraising communities.  
-\
 - "Builder & Persuader" - [Mike Maples](https://ventureunlocked.substack.com/p/mikemaples019) on profiles of co-founders to look out for. 
-\
 - "Failure to imagine failure" - [Josh Wolfe](https://twitter.com/wolfejosh/status/1239006370382393345?lang=en-GB) on company failure being ok as long as the cause of failure was anticipated.  
-\
 - "Bat-signal" - [Marc Andreessen](https://conversationswithtyler.com/episodes/marc-andreessen/) on Peter Thiel optimizing for the type of founders, colleagues, peers he wants to work with. 
-\
 - "Sell what LPs know how to buy" - [Paul Martino](https://ventureunlocked.substack.com/p/paulmartino) on fundraising narratives for emerging managers. 
-\
 - "N-of-1 vs. 1-of-N" - [Arjun Sethi](https://tribecap.co/faq-on-carta-n-of-1-and-atomic-units/) on investing in monopolies. 
-\
 - "There are operate to win companies or outright innovation companies" - [Henry Ward](https://podcasts.apple.com/us/podcast/henry-ward-transforming-private-markets/id1154105909?i=1000558237878) 
-\
 - "The power of defaults" - [Julien Digital](https://julian.digital/2021/12/20/the-power-of-defaults/)
-\
 - "Technical logistics companies" - [Alex Wang](https://podcasts.apple.com/us/podcast/alexandr-wang-a-primer-on-ai/id1154105909?i=1000557211885) 
-\
 - "Their time is already allocated" - Marc Andreessen  
-\
 - "Look for what sucks" - [Josh Wolfe](https://podcasts.apple.com/us/podcast/josh-wolfe-the-tech-imperative/id1154105909?i=1000436137469)
-\
+
 [Pull requests](https://github.com/alexmackenzie-wx/blog) encouraged if you have a learning to share!
