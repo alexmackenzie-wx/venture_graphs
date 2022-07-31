@@ -1,4 +1,4 @@
 ---
 title: Deno Primer 
-publish_date: s00n
+publish_date: 01-01-2022
 ---
