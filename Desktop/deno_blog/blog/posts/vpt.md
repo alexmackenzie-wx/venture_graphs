@@ -1,5 +1,5 @@
 ---
-title: OpenAI's VPT [Soon]
+title: OpenAI's VPT [wip]
 publish_date: 2022-01-01
 ---
 

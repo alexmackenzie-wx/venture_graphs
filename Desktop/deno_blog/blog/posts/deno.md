@@ -1,5 +1,5 @@
 ---
-title: Deno Primer [Soon]
+title: Deno Primer [soon]
 publish_date: 2022-01-01
 ---
 
