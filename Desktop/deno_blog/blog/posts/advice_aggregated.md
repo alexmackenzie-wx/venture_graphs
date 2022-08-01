@@ -1,6 +1,6 @@
 ---
 title: Advice Aggregated
-publish_date: 2022-31-07
+publish_date: 2022-07-31
 ---
 
 An evolving doc of the advice I've received or inherited about the business of VC.
@@ -35,16 +35,18 @@ Below you'll find my ~unique aggregate of learnings about the business of ventur
 
 - "Sell what LPs know how to buy" - [Paul Martino](https://ventureunlocked.substack.com/p/paulmartino) on fundraising narratives for emerging managers. 
 
-- "N-of-1 vs. 1-of-N" - [Arjun Sethi](https://tribecap.co/faq-on-carta-n-of-1-and-atomic-units/) on investing in monopolies. 
+- "N-of-1 vs. 1-of-N" - [Arjun Sethi](https://tribecap.co/faq-on-carta-n-of-1-and-atomic-units/) on investing in companies capable of generating persistent differential returns. 
 
-- "There are operate to win companies or outright innovation companies" - [Henry Ward](https://podcasts.apple.com/us/podcast/henry-ward-transforming-private-markets/id1154105909?i=1000558237878) 
+- "There are operate to win companies or outright innovation companies" - [Henry Ward](https://podcasts.apple.com/us/podcast/henry-ward-transforming-private-markets/id1154105909?i=1000558237878)'s taxonomy of companies to build / invest in.  
 
-- "The power of defaults" - [Julien Digital](https://julian.digital/2021/12/20/the-power-of-defaults/)
+- "The power of defaults" - [Julien Digital](https://julian.digital/2021/12/20/the-power-of-defaults/) on atom-based network effects.
 
-- "Technical logistics companies" - [Alex Wang](https://podcasts.apple.com/us/podcast/alexandr-wang-a-primer-on-ai/id1154105909?i=1000557211885) 
+- "Technical logistics companies" - [Alex Wang](https://podcasts.apple.com/us/podcast/alexandr-wang-a-primer-on-ai/id1154105909?i=1000557211885) on the value of investing in / building intangible complexity. 
 
-- "Their time is already allocated" - Marc Andreessen  
+- "Their time is already allocated" - [Marc Andreessen](https://www.joincolossus.com/episodes/58516750/andreessen-making-the-future) on the difficulty of capturing consumer attention.   
 
-- "Look for what sucks" - [Josh Wolfe](https://podcasts.apple.com/us/podcast/josh-wolfe-the-tech-imperative/id1154105909?i=1000436137469)
+- "Look for what sucks" - [Josh Wolfe](https://podcasts.apple.com/us/podcast/josh-wolfe-the-tech-imperative/id1154105909?i=1000436137469) on investing in what matters. 
+
+- "Multi product companies" - [Bedrock Capital](https://www.bedrockcap.com/letters/rippling-is-built-different) on assessing the feasibility of second / third acts by companies.
 
 [Pull requests](https://github.com/alexmackenzie-wx/blog) encouraged if you have a learning to share!
