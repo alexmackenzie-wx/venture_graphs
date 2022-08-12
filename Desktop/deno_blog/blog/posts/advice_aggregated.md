@@ -39,7 +39,9 @@ Below you'll find my ~unique aggregate of learnings about the business of ventur
 
 - "N-of-1 vs. 1-of-N" - [Arjun Sethi](https://tribecap.co/faq-on-carta-n-of-1-and-atomic-units/) on investing in companies capable of generating persistent differential returns. 
 
-- "There are operate to win companies or outright innovation companies" - [Henry Ward](https://podcasts.apple.com/us/podcast/henry-ward-transforming-private-markets/id1154105909?i=1000558237878)'s taxonomy of companies to build / invest in.  
+- "There are operate to win companies or outright innovation companies" - [Henry Ward](https://podcasts.apple.com/us/podcast/henry-ward-transforming-private-markets/id1154105909?i=1000558237878)'s taxonomy of companies to build / invest in.
+
+- "Chips on shoulders put chips in pockets" - [Josh Wolfe](https://twitter.com/wolfejosh/status/1284108444656717825?s=20&t=30e5q8b_mhQQdJEDrQ_4aQ) on identifying founder tenacity. 
 
 - "The power of defaults" - [Julien Digital](https://julian.digital/2021/12/20/the-power-of-defaults/) on atom-based network effects.
 
