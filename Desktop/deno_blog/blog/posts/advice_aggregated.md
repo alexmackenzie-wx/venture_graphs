@@ -15,7 +15,7 @@ Below you'll find my ~unique aggregate of learnings about the business of ventur
 
 - "Look at the steepness of the slope" - [Geoff Lewis](https://www.youtube.com/watch?v=gd8ljRyBmTQ) on assessing the MOIC of people vs. companies.
 
-- "Rock, sand & water" - [Sarah Tavel](https://sarahtavel.medium.com/the-opportunity-and-risks-for-consumer-startups-in-a-social-distancing-world-a-framework-for-15f65e2fbdff) with a framework on how consumers' time allocation.
+- "Rock, sand & water" - [Sarah Tavel](https://sarahtavel.medium.com/the-opportunity-and-risks-for-consumer-startups-in-a-social-distancing-world-a-framework-for-15f65e2fbdff) with a framework on consumers' time allocation.
 
 - "Not all revenue is created equal" - [Bill Gurley](https://abovethecrowd.com/2011/05/24/all-revenue-is-not-created-equal-the-keys-to-the-10x-revenue-club/) on meta financial analysis.
 
