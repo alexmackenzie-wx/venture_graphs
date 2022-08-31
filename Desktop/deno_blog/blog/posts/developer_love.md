@@ -13,10 +13,13 @@ As I've [mentioned](https://mack.work/advice_aggregated) previously, venture is 
 
 - Evervault created a [papers](https://evervault.com/papers) page that showcases "the most important cryptography papers spanning the past, present, and future of cryptosystems & cryptology".
 
-- Deno's artworks [page](https://deno.land/artwork) incentivises their community to propagate their mascott.   
+- Deno's artworks [page](https://deno.land/artwork) incentivises their community to propagate their mascot.   
 
 **Community**
 
+- Community hubs built by [Roboflow](https://universe.roboflow.com/), [Rasa](https://rasa.com/showcase/), [HuggingFace](https://huggingface.co/spaces) and [Scale AI](https://exchange.scale.com/).
+
+- Airbyte has a maintainer [program](https://airbyte.com/maintainer-program).
 
 **Marketing**
 
